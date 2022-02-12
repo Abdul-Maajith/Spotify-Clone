@@ -1,0 +1,43 @@
+tailwind css is the mobile first css..It mainly gives preference to mobile, for larger devices we must use breakPoints.
+
+flex = By default, it put items into rows!
+
+space-x-_ = gives spacing in x-axis.
+
+items-center = put all the items center!
+
+p-5 = gives padding alround the items!
+
+border-r = gives border on the right side!
+
+To use the custom values = border-t-[0.1px]..
+
+To make the Scrolling effect smoother & fixed = h-screen overflow-hidden
+
+min-h-screen = to make the min.height to full size of the Screen
+
+h-screen - take as much space as the screen has!
+
+overflow-y-scroll = When we have too much of information, we must scoll over it!
+
+flex-grow = take as much room as possible
+
+absolute - making that div to float in another div(relative, we need not to mention), we must specify its position(top, right)
+
+shadow-2xl = Gives shadow in the bottom!
+
+hidden md:inline-flex = Hidden in mobileView, only visible after the breakpoint - Medium screen! arranges itself in row
+
+ml-auto = margin-left will be fixed as auto!
+
+justify-between = justify a space between them.
+
+grid grid-cols-2 = grid box of column 2.
+
+sticky bottom-0 = making the div sticky at bottom.
+
+hidden md:inline = Hidden in mobileView, only visible after the breakpoint - Medium screen! arrangement is default here!
+
+justify-evenly = leave space evenly!
+
+justify-end = put everything in the end!
